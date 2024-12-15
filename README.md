@@ -9,6 +9,14 @@
 - **Responsive Design**: The app is responsive and works on various screen sizes.
 - **Simple Interface**: Minimalistic UI for a smooth user experience.
 
+## Screenshots
+
+![structsnap](https://github.com/user-attachments/assets/c439014e-dcf6-4837-bd03-78cd77e9c1b4)
+![project_snap_Internship](https://github.com/user-attachments/assets/be6c49c5-6ca5-4754-bc01-b6f778b5b0aa)
+![drawables_snap](https://github.com/user-attachments/assets/f3281f57-b850-49e7-81ff-070fea13cd23)
+![buildtimesnap](https://github.com/user-attachments/assets/bd44884f-3139-4db8-9ed1-9ca93bcb9e34)
+
+
 ## Tech Stack
 
 - **Language**: Java
