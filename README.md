@@ -11,10 +11,16 @@
 
 ## Screenshots
 
+- ### UI Layout
 ![structsnap](https://github.com/user-attachments/assets/c439014e-dcf6-4837-bd03-78cd77e9c1b4)
+- ### Preview in Android Studio
 ![project_snap_Internship](https://github.com/user-attachments/assets/be6c49c5-6ca5-4754-bc01-b6f778b5b0aa)
+- ### Drawables used in Project
 ![drawables_snap](https://github.com/user-attachments/assets/f3281f57-b850-49e7-81ff-070fea13cd23)
+- ### Total Build Time
 ![buildtimesnap](https://github.com/user-attachments/assets/bd44884f-3139-4db8-9ed1-9ca93bcb9e34)
+- ### Temperature of Agra
+![tempAgta](https://github.com/user-attachments/assets/932ecd80-4c2a-4192-8f03-e22da5521538)
 
 
 ## Tech Stack
